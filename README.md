@@ -54,7 +54,7 @@
 
 ### 📌 [Chess Game (Socket.io)](https://github.com/nikhilreddy006/chess-game)  
 - Real-time multiplayer chess game  
-- Developed using **Socket.io**, **Node.js**, and **React.js**   
+- Developed using **Socket.io**, **Node.js**, and **chess.js**   
 
 ---
 
